@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.not-found{
+    width: 133px;
+    height: 25px;
+    top: 40px;
+    left: 77px;
+    position: absolute;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    position: absolute;
+    left: 77px;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+    width: 500px;
+    height: 447px;
+}
+
+h1 {
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px;
+    font-family: 'Space Mono';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+    font-style: normal;
+    position: absolute;
+}
+
+p {
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    color: #4f4f4f;
+}
+
+button{
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+    background: #1a1831; 
+    color: #fff;
+    font-family: 'Sapce Mono';
+    letter-spacing: -0.035em;
+    line-height: 21px;
+    font-size: 14px;
+    font-style: normal;
+}
+
+footer {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 577px;
+    top: 1039px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #334854;
+}
