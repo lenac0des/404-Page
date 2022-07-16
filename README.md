@@ -27,7 +27,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -55,6 +54,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
-- GitHub [@your-username](https://{github.com/lenac0des})
-- Twitter [@your-twitter](https://{twitter.com/lena_codes95})
+- GitHub [@lenac0des](https://{github.com/lenac0des})
+- Twitter [@lena_codes95](https://{twitter.com/lena_codes95})
 # 404-Page
